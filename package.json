@@ -1,6 +1,6 @@
 {
   "name": "react-reactive-blocks",
-  "homepage" : "http://rj-maitra.github.io/react-reactive-blocks"
+  "homepage" : "http://rj-maitra.github.io/react-reactive-blocks",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
